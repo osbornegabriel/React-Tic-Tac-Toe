@@ -2,7 +2,7 @@
 
 Hi, this is a sandbox project for me of playing around and following the introductory tutorial provided by the React team to [build a tic-tac-toe game](https://reactjs.org/tutorial/tutorial.html "Learn React"). If you're interested in learning React, I recommend using their tutorial. It's definitely fun - worth the time and effort!
 
-<br><br>
+<br>
 _Below is the pre-written README.md content provided by React upon creation of a new react project_
 <br><br>
 
