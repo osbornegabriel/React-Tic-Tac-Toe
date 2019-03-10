@@ -1,6 +1,6 @@
 ## Hello World
 
-Hi, this is a sandbox project for me of playing around and following the introductory tutorial provided by the React team to [build a tic-tac-toe game](https://reactjs.org/tutorial/tutorial.html "Learn React"). If you're interested in learning React, I recommend using their tutorial. It's definitely fun - worth the time and effort!
+Hi there! This is a sandbox project for me - playing around and following the introductory tutorial provided by the React team to [build a tic-tac-toe game](https://reactjs.org/tutorial/tutorial.html "Learn React"). If you're interested in learning React, I recommend using their tutorial. It's definitely fun - worth the time and effort!
 
 <br>
 
