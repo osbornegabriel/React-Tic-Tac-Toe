@@ -5,12 +5,15 @@ import './index.css';
 class Square extends React.Component {
   render() {
     return (
-      <button className="square">
+      <button className="square" onClick={() => alert('click')}>
         {this.props.value}
       </button>
     );
   }
 }
+      // Original writing for line 8:
+      // <button className="square" onClick={function() { alert('click'); }}>
+
 
 class Board extends React.Component {
   renderSquare(i) {
