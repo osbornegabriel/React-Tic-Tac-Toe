@@ -6,7 +6,7 @@ Hi, this is a sandbox project for me of playing around and following the introdu
 
 _Below is the pre-written README.md content provided by React upon creation of a new react project_
 
-<br><br>
+<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
